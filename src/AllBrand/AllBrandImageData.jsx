@@ -1,0 +1,22 @@
+const AllBrandImageData = [
+    `https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1680070318_la_girl-1200x1800.jpeg`,
+    `https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1679666287_biotique-1200x1800.jpeg`,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+    ``,
+
+]

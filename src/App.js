@@ -7,6 +7,10 @@ import Slider from './sliders/Slider';
 import ProductSlider from './ProductSlider/ProductSlider';
 import SameSlider from "./Same2slider/SameSlider";
 import CategoryProduct from "./categoryProduct/CategoryProduct";
+import OnlyOnMyShop from "./onlyOnMyShop/OnlyOnMyShop";
+import LookingFor from "./LookingForTitleimages/LookingFor";
+import TopProducts from "./TopRatedProduct/TopProducts";
+import AllBrand from "./AllBrand/AllBrand";
 
 function App() {
   return (
@@ -18,6 +22,10 @@ function App() {
       <SameSlider />
       <SameSlider />
       <CategoryProduct/>
+      <OnlyOnMyShop /> 
+      <LookingFor/>
+      <TopProducts/>
+      <AllBrand />
     </>
   );
 }
