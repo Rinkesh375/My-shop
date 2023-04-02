@@ -4,7 +4,7 @@ import { CloseIcon } from "@chakra-ui/icons"
 
 const DownloadApp = () => {
     return (
-        <Box bg="brand.1100" padding="0.6rem">
+        <Box bg="brand.1100" zIndex={1} padding="0.6rem" >
             <Flex justify="space-around" align="center">
                 <Flex >
                     <Img w="35px" src="https://media6.ppl-media.com/mediafiles/ecomm/home/1543587824_logo.png" name="logo" />

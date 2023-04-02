@@ -11,6 +11,10 @@ import OnlyOnMyShop from "./onlyOnMyShop/OnlyOnMyShop";
 import LookingFor from "./LookingForTitleimages/LookingFor";
 import TopProducts from "./TopRatedProduct/TopProducts";
 import AllBrand from "./AllBrand/AllBrand";
+import { Divider } from "@chakra-ui/react";
+import HelpAssistant from "./HelpAssistant/HelpAssistant";
+import Spotlight from "./Spotlight/Spotlight";
+import Footer from "./Footer/Footer";
 
 function App() {
   return (
@@ -26,6 +30,9 @@ function App() {
       <LookingFor/>
       <TopProducts/>
       <AllBrand />
+      <HelpAssistant/>
+      <Spotlight />
+      <Footer/>
     </>
   );
 }

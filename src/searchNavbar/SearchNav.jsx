@@ -2,7 +2,7 @@
 import {
       Input, 
       HStack, 
-      Box,
+  
       Icon,
       Img, 
       Divider,
@@ -11,7 +11,7 @@ import {
       Button,
       MenuButton,
       MenuList,
-      Text
+      Text,Box
 
 } from "@chakra-ui/react"
 import { SearchIcon, ChevronDownIcon,HamburgerIcon } from "@chakra-ui/icons"
@@ -28,8 +28,8 @@ import { faCartShopping } from "@fortawesome/free-solid-svg-icons"
 const SearchNav = () => {
 
       return (
-            <>
-                  <HStack justifyContent="space-around" height="52px" mt="1rem">
+            <Box >
+                  <HStack justifyContent="space-around" height="52px" mt="1rem" zIndex={1}>
                         <Flex borderBottom="2px solid #60f " justify="space-between" px="1rem" align="center"><Input pr="1rem" mr="1rem" variant="none" placeholder="What are you looking for?  " width="auto" /> <Icon as={SearchIcon} /> </Flex>
                         <Img src={logo} height="50px" />
                         <HStack spacing="1rem">   <FontAwesomeIcon icon={faHeart} style={{ height: "2.4rem" }} /> 
@@ -47,7 +47,7 @@ const SearchNav = () => {
                         </Menu> <FontAwesomeIcon icon={faCartShopping} style={{ height: "2.5rem" }} />   </HStack>
 
                   </HStack>
-                  <Flex w="70%" m="auto"  justify="space-evenly" mt="2rem" >
+                  <Flex w="70%" m="auto"  justify="space-evenly" mt="2rem" zIndex={1}>
                         <Text pb="1rem" _hover={{borderBottom:"2px solid #60f",color:"#60f",cursor:"pointer"}}>  SHOP CATEGORIES</Text>
                         <Text _hover={{borderBottom:"2px solid #60f",color:"#60f",cursor:"pointer"}}>BRANDS</Text>
                         <Text _hover={{borderBottom:"2px solid #60f",color:"#60f",cursor:"pointer"}}>OFFERS</Text>
@@ -57,7 +57,7 @@ const SearchNav = () => {
                         <Text _hover={{borderBottom:"2px solid #60f",color:"#60f",cursor:"pointer"}}>ELITE OFFERS</Text>
                   </Flex>
                   <Divider h="1px" bg="#d7c8c8" />
-            </>
+            </Box>
 
       )
 }
