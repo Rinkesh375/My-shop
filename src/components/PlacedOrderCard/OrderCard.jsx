@@ -1,15 +1,7 @@
 import React from 'react';
 import { GridItem,VStack,Box,Image,Stack,HStack,Heading,Text,Grid, Center } from '@chakra-ui/react';
 
-// "id": 233,
-// "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/309243/godrej-expert-creme-dark-brown-pack-of-4-17_1_display_1664285423_bd721b85.jpg",
-// "name": "Godrej Expert Creme Dark Brown - Pack of 4",
-// "price": 115,
-// "rating": 3,
-// "product_category": "Hair Color",
-// "gender": "female",
-// "qty": 1,
-// "time": 1685882983913
+
 
 const OrderCard = ({image,name,price,qty,time}) => {
     return (

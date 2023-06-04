@@ -16,7 +16,7 @@ const RegisterUser = () => {
   const toast = useToast()
   const handleUserRegister = (e) => {
     e.preventDefault()
-   axios.get(`http://localhost:8080/users/${userData.id}`)
+   axios.get(`https://my-shop-xqg8.onrender.com/users/${userData.id}`)
    .then(()=>toast({
     title: 'Email already exists.',
     status: 'error',

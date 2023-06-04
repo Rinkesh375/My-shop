@@ -3,7 +3,7 @@ import { USERS_GET_DATA_SUCCESS } from "./actionTypes"
 
 export const addNewUser = async(obj)=>{
     try {
-        let req = await axios.post(`http://localhost:8080/users`,obj)
+        let req = await axios.post(`https://my-shop-xqg8.onrender.com/users`,obj)
 
     } catch (error) {
             
@@ -12,7 +12,7 @@ export const addNewUser = async(obj)=>{
 
 export const getAllExistingUsers = (dispatch)=>async()=>{
       try {
-        const req = await axios.get(`http://localhost:8080/users`)
+        const req = await axios.get(`https://my-shop-xqg8.onrender.com/users`)
         dispatch({type:USERS_GET_DATA_SUCCESS,payload:req.data})
       } catch (error) {
         
@@ -21,5 +21,5 @@ export const getAllExistingUsers = (dispatch)=>async()=>{
 
 export const addProductToCart = async(id,item)=>{
  
-     await  axios.patch(`http://localhost:8080/users/${id}`,item)
+     await  axios.patch(`https://my-shop-xqg8.onrender.com/users/${id}`,item)
 }

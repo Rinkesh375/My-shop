@@ -8,7 +8,7 @@ export const searchProduct = (dispatch, obj) => async () => {
     
        dispatch({ type: SEARCH_PRODUCT_LOADING })
        try {
-              const req = await axios.get(`http://localhost:8080/product`, obj)
+              const req = await axios.get(`https://my-shop-xqg8.onrender.com/product`, obj)
               dispatch({ type: SEARCH_PRODUCT_SUCCESS, payload: { data: req.data, totalPages: req.headers["x-total-count"] } });
               return req;
        }
