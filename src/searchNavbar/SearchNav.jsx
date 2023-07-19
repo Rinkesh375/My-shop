@@ -15,13 +15,13 @@ import {
       PopoverBody,
 
       PopoverArrow,
-      PopoverCloseButton,
+
 
       Portal
 } from "@chakra-ui/react"
 import logo from "../Images/Myshop.png"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faHeart, faFaceSmile } from "@fortawesome/free-regular-svg-icons"
+import { faHeart} from "@fortawesome/free-regular-svg-icons"
 import { faCartShopping } from "@fortawesome/free-solid-svg-icons";
 import SearchInput from "../components/searchProducts/SearchInput";
 import { FaUser } from 'react-icons/fa'
