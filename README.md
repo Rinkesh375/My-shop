@@ -34,7 +34,7 @@ HTML | CSS | JavaScript |  React.js | Redux | TypeScript | Chakra UI | json-serv
   ![Loading Bar](https://github.com/Rinkesh375/My-shop/assets/107518782/6cbb9d52-017a-4821-bb29-114467fc7a03)
 
 
-- **Product Section**: The product section is designed to showcase a wide range of fashion items. Sortable cards display essential information such as product name, image, and rating. Additionally, Pagination, sorting price, and filter functionality allow for seamless browsing, ensuring that users can explore numerous products effortlessly.
+- **Product Section**: The product section is designed to showcase a wide range of cosmetics,beauty,health items. Sortable cards display essential information such as product name, image, and rating. Additionally, Pagination, sorting price, and filter functionality allow for seamless browsing, ensuring that users can explore numerous products effortlessly.
 
   ![Product Page](https://github.com/Rinkesh375/My-shop/assets/107518782/78d689d4-8797-44b1-ba75-8cae7cd7c4e2)
   ![Pagination functionality](https://github.com/Rinkesh375/My-shop/assets/107518782/6881f9dc-4f31-4cf2-bc2b-afe26ed5c18c)
