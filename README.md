@@ -3,7 +3,7 @@
 Shop-now is a full-stack web application that provides a platform for E-commerce, allowing users to discover and purchase cosmetics and health and beauty products.
 
 # Vercel Deployed link
-https://my-shop-1hr537y50-rinkeshujjwal16-gmailcom.vercel.app/
+https://my-shop-kohl.vercel.app/
 
 # Tech Stack
 HTML | CSS | JavaScript |  React.js | Redux | TypeScript | Chakra UI | json-server
