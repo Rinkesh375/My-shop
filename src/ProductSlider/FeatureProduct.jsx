@@ -1,92 +1,92 @@
 const featureProduct = [
     {
-        name: "Lakme Sun Expert Ultra Matte SPF 40 PA+++ Compact (7 g)",
+        name: " Alps Goodness Fenugreek, Biotin and Redensyl Anti Hairfall Hair...",
         discountprice: "285",
         actualPrice: 350,
-        url: "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/307565/maybelline-new-york-lash-sensational-sky-high-waterproof-mascara-lengthening-and-volumizing-mascara-with-bamboo-exract-and-fibres-very-black-6-ml_1_display_1678336663_76640fad.jpg"
+        url: "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/259394/alps-goodness-fenugreek-biotin-and-redensyl-anti-hairfall-conditioner-200-ml_16_display_1684904329_f5036e63.jpg"
     },
 
     {
-        name: "Purplle Natural Tress - Free Wooden Comb - Big | Organic Neem Wood",
+        name: "Mamaearth Rosemary Hair Growth Oil with Rosemary  Hair Growth - 150 ml...",
         discountprice: "150",
-        actualPrice: "199",
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/269996/purplle-natural-tress-free-wooden-comb-big_6_display_1662361862_7161282f.jpg`
+        actualPrice: 199,
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/356015/mamaearth-rosemary-hair-growth-oil-with-rosemary-and-methi-dana-for-promoting-hair-growth-150-ml_1_display_1686745148_57864ef1.jpg`
     },
     {
-        name: "Stay Quirky I'm done with you Nail Polish Remover Pads| Nail Lacquer Remover - 30 Pads (43 g)",
+        name: "Streax cream Hair colour, 100% Grey Coverage Golden Blonde, 120 ml... ",
         discountprice: 77,
         actualPrice: 110,
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/202529/stay-quirky-i-m-done-with-you-nail-polish-remover-pads-43-g_6_display_1647235352_00253240.jpg`
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/324530/streax-hair-colour-golden-blonde-120-ml_5_display_1650363241_dd714208.jpg`
     },
     {
-        name: "TRESemme Keratin Smooth Shampoo (580 ml)",
+        name: "Intense Moisture Hair Mask with Jojoba Oil  & Shiny Hair - 250 g...",
         discountprice: "800",
         actualPrice: 900,
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/256995/tresemme-keratin-smooth-shampoo-1-ltr_3_display_1563251864_5934c3dc.jpg`
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/353602/intense-moisture-hair-mask-with-jojoba-oil-and-vitamin-e-for-nourished-and-shiny-hair-250-g_1_display_1684133253_3e0ce5ed.jpg`
     },
     {
-        name: "TRESemme Keratin Smooth Shampoo (580 ml)",
+        name: "Indus Valley Bio Organic Almond Oil ((100 ml))... ",
         discountprice: "800",
         actualPrice: 900,
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/344340/l-oreal-professionnel-x-tenso-care-straight-masque-200-ml-promo-18-92-62_2_display_1677736932_9c3637ec.jpg`
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/215980/indus-valley-bio-organic-almond-oil-100-ml_3_display_1683018485_c57ac14f.jpg`
     },
     {
-        name: "TRESemme Keratin Smooth Shampoo (580 ml)",
+        name: "NY Bae Banana Loose Powder (5.8 g) | Yellow | Matte Finish...",
         discountprice: "800",
         actualPrice: 900,
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/197370/lakme-sun-expert-ultra-matte-spf-40-pa-compact-7-g_3_display_1556887770_f561c73c.jpg`
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/344786/ny-bae-banana-loose-powder-5-8-ml-18-15_1_display_1692244258_6e9dbec7.jpg`
     },
     {
-        name: "Bajaj Almond Drops Hair Oil (650 ml)",
+        name: "Alps Goodness Coconut, Argan Oil & Hyaluronic Acid Hydrating...",
         discountprice: "385",
         actualPrice: "435",
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/300436/bajaj-almond-drops-hair-oil-650-ml_1_display_1607938934_994b0052.jpg`
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/259395/alps-goodness-coconut-argan-oil-and-hyaluronic-acid-hydrating-and-moisturizing-conditioner-for-dry-hair-200-ml_15_display_1667380679_c0a62b5e.jpg`
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/278695/purplle-dragon-fruit-tropical-kiss-body-yogurt-200gm_8_display_1660111337_34b0a14a.jpg`,
-        name: "Purplle Dragon Fruit Tropical Kiss Body Yogurt | Body Moisturizer (200gm)",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/356016/mamaearth-rosemary-anti-hair-fall-shampoo-with-rosemary-and-methi-dana-for-reducing-hair-loss-and-breakage-250-ml_1_display_1686745111_5271bf90.jpg`,
+        name: " Mamaearth Rosemary Anti-Hair Fall Shampoo with Rosemary & Methi Dana  Breakage - 250 ml... ",
         actualPrice: "799",
         discountprice: "680"
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/290457/stay-quirky-primer-setting-spray-natural-50ml_10_display_1660305178_e2ac5a41.jpg`,
-        name: "Stay Quirky Primer + Setting Spray (Natural) 50 ml",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/342768/indus-valley-bio-organic-coconut-oil-175-ml-15_2_display_1683018058_69619d49.jpg`,
+        name: " Indus Valley Bio Organic Coconut oil (175 ml)...",
         actualPrice: "399",
         discountprice: "280"
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/344343/l-or-al-professionnel-x-tenso-care-straight-serum-50-ml-78-59-92_1_display_1677736936_4aaae15b.jpg`,
-        name: "L'Oreal Professionnel Xtenso Care Serum| Hair Serum for Salon Straightened hair | Nourishes and adds shine| With Pro-Keratin and Incell (50ml)",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/345507/alps-goodness-100-percentage-pure-cold-pressed-castor-oil-100-ml_1_display_1689667512_81d00e12.jpg`,
+        name: "Alps Goodness 100% Pure Cold Pressed Castor Oil (100 ml) | For Hair & Skin | 100% Natural Arandee oil...",
         actualPrice: "780",
         discountprice: 680
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/328775/bajaj-coconut-bajaj-coconut-oil-600ml_1_display_1669523936_13e2a010.jpg`,
-        name: "Bajaj Coconut Oil 600ml",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/199064/mamaearth-mamaearth-s-onion-hair-oil-for-hair-regrowth-and-hair-fall-control-250-ml_9_display_1653285647_b771a842.jpg`,
+        name: "Mamaearth Mamaearth’s Onion Hair Oil for Hair Regrowth & Hair Fall Control (250 ml)... ",
         discountprice: "187",
         actualPrice: "249"
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/220344/purplle-true-jewel-24k-gold-primer-20-ml-52_1_display_1673004163_b24333a5.jpg`,
-        name: "Purplle True Jewel 24K Gold Primer | Matte | Oil Control | Shine Control | Long Lasting | Lightweight | Pore Minimising | Dermatologically Tested - (20 ml)",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/273993/streax-ultralights-highlighting-kit-vibrant-blonde-40-ml-64_2_display_1650347687_010b875a.jpg`,
+        name: "Streax Ultralights Highlight Hair Colour Kit, Semi Permanent Hair colour for women and men, Vibrant Blonde, 40 ml...",
         discountprice: "333",
         actualPrice: 475
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/344328/l-oreal-professionnel-absolut-repair-lipidium-shampoo-300-ml-11-35-20-11-10-61_1_display_1677737005_8915b381.jpg`,
-        name: "L'Oreal Professionnel Serie Expert Absolut Repair Shampoo|Provides deep conditioning & strength|With Gold Quinoa & Wheat Protein (300ml)",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/345508/alps-goodness-100-percentage-pure-cold-pressed-coconut-oil-100-ml_1_display_1689836381_59406ce1.jpg`,
+        name: "Alps Goodness 100% Natural Cold Pressed Coconut Oil (100 ml) | 100% Pure & Organic...",
         discountprice: "748",
         actualPrice: 900
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/290457/stay-quirky-primer-setting-spray-natural-50ml_10_display_1660305178_e2ac5a41.jpg`,
-        name: "Stay Quirky Primer + Setting Spray (Natural) 50 ml",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/274447/streax-ultralights-gem-collection-blue-sapphire-60-ml-14_2_display_1650347311_0dde9ffc.jpg`,
+        name: "Streax Ultralights Highlight Hair Colour Kit, Semi Permanent Hair colour for women and men Gel...",
         discountprice: 280,
         actualPrice: 399
     },
     {
-        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/344341/l-oreal-professionnel-x-tenso-care-masque-sulfate-free-196gm-74_2_display_1677737024_f98469c3.jpg`,
-        name: "L'Oreal Professionnel Xtenso Care Sulfate-free Mask|Hair Mask for all hair types|Gently cleanses, controls frizz|With Keratin Repair (196gms)",
+        url: `https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/269683/streax-insta-shampoo-hair-colour-natural-black-18-ml_1_display_1639723628_4d44eaf6.jpg`,
+        name: "Streax Insta Shampoo Hair Colour - Natural Black (18 ml)...",
         discountprice: "1150",
         actualPrice: 1500
     },
